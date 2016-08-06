@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="action_archived">Archived shopping lists</string>
+    <string name="name">Name</string>
+    <string name="new_item">New item</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="archive">Archive</string>
+    <string name="show">Show</string>
+    <string name="no_items">No items</string>
+    <string name="all_items_bought">All items bought</string>
+    <string name="tutorial_list_name">Tutorial list - swipe left or right to delete</string>
+    <string name="tutorial_add_item">1. Click plus sign to add item</string>
+    <string name="tutorial_buy_item">2. Click checkbox to buy item</string>
+    <string name="tutorial_delete_item">3. Swipe left or right to delete item</string>
+    <string name="new_shopping_list">New shopping list</string>
+    <string name="deleted">deleted</string>
+    <string name="deleted_list">Deleted list:</string>
+    <string name="undo">Undo</string>
+    <string name="title_activity_archive">Archived shopping lists</string>
+    <string name="deleted_item">Deleted item:</string>
+    <string name="empty_archive">Archive is empty</string>
+    <string name="empty_list">There are no items on this list</string>
+    <string name="no_shopping_lists">You have no shopping lists</string>
+    <string name="error_empty_name">You need to enter a name</string>
+    <string name="items_bought">%1$d/%2$d items bought</string>
+</resources>
